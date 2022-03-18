@@ -1,4 +1,15 @@
 <channels>
+<channels>
+<channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channel>
 <name>[COLOR white][B]CLIQUE AQUI E ENTRE [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/B1-MENU-LS-CAT-MTX/main/A-CATEGORIAS-MTX</externallink>
@@ -8,6 +19,28 @@
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]STATUS DO ACESSO [COLOR white]<-> [COLOR lime]ON LINE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -23,17 +56,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]INFORMAÇÕES DO ACESSO -> CLIQUE AQUI[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
-<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>PRAZO DE VALIDADE</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
-
-<channels>
-<channel>
 <name>[COLOR white][B]TUTORIAIS DE INSTALAÇÃO -> CLIQUE AQUI[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/6-TUTORIAIS%20DE%20INSTALA%C3%87%C3%83O</externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
@@ -46,25 +68,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR black].[/COLOR]</name>
+<name>[COLOR white][B]INFORMAÇÕES DO ACESSO -> CLIQUE AQUI[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
 <thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+<info>PRAZO DE VALIDADE</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]STATUS DO ACESSO [COLOR lime]<-> ON LINE[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
-<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
 
 <channels>
 <channel>
