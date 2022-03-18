@@ -11,6 +11,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]CLIQUE AQUI E ENTRE [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/B1-MENU-LS-CAT-MTX/main/A-CATEGORIAS-MTX</externallink>
 <thumbnail>https://i.ibb.co/6YmkH7P/ICONEENTRAR.png</thumbnail>
@@ -19,6 +30,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR black].[/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR orange][B]STATUS DO ACESSO [COLOR white]<-> [COLOR lime]ON LINE[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
+<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
@@ -40,28 +73,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>TUTORIAIS DE INSTALAÇÃO</info>
 <genre>TUTORIAIS</genre> 
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
-<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR orange][B]STATUS DO ACESSO [COLOR lime]<-> ON LINE[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A3-VALACEEINFO-CONT</externallink>
-<thumbnail>https://i.ibb.co/30cLF49/ICONEVAL.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>AGRADECEMOS POR ESCOLHER O LUMINART STUDIO</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
